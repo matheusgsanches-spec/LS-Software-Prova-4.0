@@ -42,8 +42,6 @@ Automatizar tarefas comuns do computador através de um sistema de rotinas execu
 
 # 🏗️ Arquitetura do Projeto
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad1e49ca-44d6-423c-9867-f80f69afafa2" />
-
 ```text
 Prova_lulu___Sanxis
 │
@@ -67,3 +65,7 @@ Prova_lulu___Sanxis
 ├── Logs
 │
 └── Program.cs
+```
+# 📊 Fluxo do Projeto
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/ad1e49ca-44d6-423c-9867-f80f69afafa2" />
